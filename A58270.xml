@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons most humbly submitted to the wisdom of Parliament for the taking off the present duty of excise upon beer and ale and the laying the duty upon the original malt which is designed by the lover of his country for the equal service, benefit, and advantage both of the Crown and the subject.</title>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58270</idno><idno type="EEBO-CITATION">15987643</idno>
+  <idno type="VID">104682</idno>
+  <idno type="EEBO-PROQUEST">2248516601</idno>
+  
+            <idno type="STC">Wing R571</idno>
+            <idno type="STC">ESTC R36702</idno>
+            <idno type="OCLC">15987643</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58270)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104682)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1155:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons most humbly submitted to the wisdom of Parliament for the taking off the present duty of excise upon beer and ale and the laying the duty upon the original malt which is designed by the lover of his country for the equal service, benefit, and advantage both of the Crown and the subject.</title>
+               </titleStmt>
+               <extent>27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Parkhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Beer --  Taxation --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104682:1"/>
+            <p>REASONS Most Humbly Submitted to the WISDOM of PARLIAMENT FOR The taking off the present Du<g ref="char:EOLhyphen"/>ty of Excise upon BEER and ALE, and laying the Duty upon the Original MALT: Which is designed by a Lo<g ref="char:EOLhyphen"/>ver of his Country, for the equal Service, Benefit, and Advantage both of the Crown and of the Subject.</p>
+            <p>
+               <hi>LONDON, Printed for</hi> Tho. Parkhurst, <hi>at the Bible and three Crowns,</hi> the lower end of <hi>Cheapside,</hi> near <hi>Mercers Chappel.</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:104682:2"/>
+            <pb n="3" facs="tcp:104682:2"/>
+            <head>REASONS <hi>Most Humbly Submitted to the Wis<g ref="char:EOLhyphen"/>dom of Parliament, for the ta<g ref="char:EOLhyphen"/>king off the present Duty of Ex<g ref="char:EOLhyphen"/>cise upon Beer and Ale, and lay<g ref="char:EOLhyphen"/>ing the Duty upon the Original Malt: Which is designed by a Lover of his Country, for the equal Service, Benefit, and Ad<g ref="char:EOLhyphen"/>vantage, both of the Crown and of the Subject.</hi>
+            </head>
+            <p>
+               <hi>First,</hi> THE present Duty of Ex<g ref="char:EOLhyphen"/>cise upon Beer and Ale Brewed by the Common
+<pb n="4" facs="tcp:104682:3"/>Brewer only; is Humbly suppo<g ref="char:EOLhyphen"/>sed to be the most unequal, and consequently the most Se<g ref="char:EOLhyphen"/>vere Duty, that ever was ex<g ref="char:EOLhyphen"/>acted from the Subject; because it is the generality of the Tra<g ref="char:EOLhyphen"/>ding, Working, Industrious, and Profitable part of the People of this Kingdom, that consume the Drink Brewed by the Common Brewer, and consequently, do bear the burden of this Duty; and how unreasonable and unquita<g ref="char:EOLhyphen"/>ble is it, that any part of the People, (especially the most Industrious part) should be so Highly charged above the rest, and that with a Duty a<g ref="char:EOLhyphen"/>bove three pence in the Shilling, upon the first cost of a Com<g ref="char:EOLhyphen"/>modity of absolute necessity for
+<pb n="5" facs="tcp:104682:3"/>the Support of Life, whilst the generality of the Richer and more Wealthier part of the In<g ref="char:EOLhyphen"/>habitants of the Kingdom, are by Brewing their own Drink, freed and exempted by Law from the same. Should this unequal and extream exaction upon Drink, be parallel'd by a like Imposition upon any other Commodity, especially a Com<g ref="char:EOLhyphen"/>modity absolutely necessary to Life, the Nation would soon express its groans under it. As for the purpose, should a like Duty of three pence in the Shilling be laid upon all Bread, and be exacted only from that part of the People, who for want of Stocks and Conveni<g ref="char:EOLhyphen"/>ences to make and provide their
+<pb n="6" facs="tcp:104682:4"/>own Bread, are Necessitated to take their Bread of the Com<g ref="char:EOLhyphen"/>mon Baker, whilst all those who by Reason of their Wealth and Conveniences, are able to buy in their Corn and Meal, and provide their own Bread with<g ref="char:EOLhyphen"/>in themselves, shall be wholly freed from the Duty; the dan<g ref="char:EOLhyphen"/>gerous Consequences of such an unequal and unrighteous Ex<g ref="char:EOLhyphen"/>action, might be justly fear'd. But by taking off the Duty from Beer or Ale, the product of Malt, and laying it upon the Original Malt it self, this Grie<g ref="char:EOLhyphen"/>vance ceases, and then all the Subjects of the Kingdom, stand equally and fairly charged with their own free and voluntary Consumptions. And most cer<g ref="char:EOLhyphen"/>tain
+<pb n="7" facs="tcp:104682:4"/>it is, that all Taxes what<g ref="char:EOLhyphen"/>soever, though in themselves ne<g ref="char:EOLhyphen"/>ver so heavy, yet by how much the more equal they are laid, by so much the less grievous they are to the Subject.</p>
+            <p>
+               <hi>Secondly,</hi> It must be allowed, that in the laying this Duty of Excise upon Beer and Ale, there was great reason for the char<g ref="char:EOLhyphen"/>ging it on the Common Brew<g ref="char:EOLhyphen"/>er only, and exempting all Per<g ref="char:EOLhyphen"/>sons Brewing for their own Con<g ref="char:EOLhyphen"/>sumptions, or else no private Families, (Brewing their own Drink) could either Day or Night be free and quiet from the Disturbances of Officers, in the Execution of this Duty; But in changing the Duty from
+<pb n="8" facs="tcp:104682:5"/>the Product of the Malt, to the Malt it self, this great Inconve<g ref="char:EOLhyphen"/>niency vanishes, for then not only private Families Brewing their own Drink, will be as free and easie as now they are, but even the Common Brewers al<g ref="char:EOLhyphen"/>so will be freed and discharged from the unspeakable disquiets and disturbances, that unavoid<g ref="char:EOLhyphen"/>ably arise from Officers in their daily Execution of this Duty.</p>
+            <p>
+               <hi>Thirdly,</hi> All the Intelligent Of<g ref="char:EOLhyphen"/>ficers imployed in charging the Common Brewer with the pre<g ref="char:EOLhyphen"/>sent Duty, do well know, that they neither are, nor possibly can be exact and certain in those charges, which upon Oath they daily give in, and charge the
+<pb n="9" facs="tcp:104682:5"/>Brewer with, so many and vari<g ref="char:EOLhyphen"/>ous are the Mysterious Practi<g ref="char:EOLhyphen"/>ces daily found out, contrived and used by the Skilful Brew<g ref="char:EOLhyphen"/>er, for his own Ease and Ad<g ref="char:EOLhyphen"/>vantage under this duty, so that the Officers are unavoid<g ref="char:EOLhyphen"/>ably Forsworn, in the daily Ex<g ref="char:EOLhyphen"/>ecution of their Office; because they Swear not in Knowledge and Certainty, but in computa<g ref="char:EOLhyphen"/>tion and presumption, which is a very hard case, that a duty so unequal in it self, should be unavoidably attended with so much Evil in the Execution of it. Whereas, if the duty be laid upon the Original Malt, no Of<g ref="char:EOLhyphen"/>ficers in the Execution of that duty, will be exposed to any such Inconveniences, in that
+<pb n="10" facs="tcp:104682:6"/>they may upon their Oaths, charge the Malster both in Knowledge and in Certainty.</p>
+            <p>
+               <hi>Fourthly,</hi> The Skilful and Cun<g ref="char:EOLhyphen"/>ning Brewer knows full well, that as long as the Duty is continued upon the Product of the Malt, it is impossible for any Officer, though never so Diligent and Vigilent, to pre<g ref="char:EOLhyphen"/>vent all his Mysterious Practi<g ref="char:EOLhyphen"/>ces, which as soon as one is dis<g ref="char:EOLhyphen"/>covered, another is contrived and set on foot, to make him easie under the burden of this Duty. But when once the Du<g ref="char:EOLhyphen"/>ty shall be chang'd from the Drink to the Malt, there will be an end put to all the Brew<g ref="char:EOLhyphen"/>ers little Contrivances, and then
+<pb n="11" facs="tcp:104682:6"/>the Duty upon the Malt can<g ref="char:EOLhyphen"/>not be avoided by any dark Practices of the Malsters, but will always be fairly and duly Collected.</p>
+            <p>
+               <hi>Fifthly,</hi> As the Duty now lies upon Beer and Ale, there is a great Inequality in it, even as to the Common Brewer himself, in that the Duty never had, nor can have any due and pro<g ref="char:EOLhyphen"/>portionable regard to the quan<g ref="char:EOLhyphen"/>tity of the Drink which is drawn from the Malt. As for Exam<g ref="char:EOLhyphen"/>ple, if a Brewer for his grea<g ref="char:EOLhyphen"/>ter gain, will draw three Barrels of Beer from a quarter of Malt, he must then pay Excise for the produce of that quarter of Malt, after the Rate of three Barrels,
+<pb n="12" facs="tcp:104682:7"/>but if the same Brewer at ano<g ref="char:EOLhyphen"/>ther time, (for Reasons best known to himself) thinks fit to Draw but two Barrels of Beer from a like quarter of Malt, then he shall pay Excise for the produce of that quarter of Malt, but after the Rate of two Bar<g ref="char:EOLhyphen"/>rels; so that it is apparently very much in the Liberty and Power of the Common Brew<g ref="char:EOLhyphen"/>ers of this Kingdom, to lessen or increase this Branch of the Revenue, as they shall think fit, which can never be effectu<g ref="char:EOLhyphen"/>ally Regulated, until the Du<g ref="char:EOLhyphen"/>ty be wholly changed from Beer and Ale, to the Original Malt; and then every Man Brewing, either for Sale, or for his own Consumption, will fair<g ref="char:EOLhyphen"/>ly
+<pb n="13" facs="tcp:104682:7"/>and justly pay according to the quantity of the Malt he wets, and the Strength of the Drink he Brews; which is so Highly just and equal, that it must silence even those, who for the sake of their own Interests are against it.</p>
+            <p>
+               <hi>Sixthly,</hi> Whilst the Duty is continued upon Beer and Ale, it will very much remain in the liberty of the People also, to lessen this Duty, it being the Right of all Men to Brew their own Drink, if they shall so think fit, and what can be a greater Inducement to the In<g ref="char:EOLhyphen"/>crease of private Brewing, than the loading of the publick Brew<g ref="char:EOLhyphen"/>ers Drink with a heavy Duty,
+<pb n="14" facs="tcp:104682:8"/>a common understanding is suf<g ref="char:EOLhyphen"/>ficient for the drawing this Con<g ref="char:EOLhyphen"/>clusion, without having recourse to the Books at the Excise-Office in <hi>London.</hi> But if the Duty be changed from the Drink to the Malt, all Temp<g ref="char:EOLhyphen"/>tations to private Brewings, and consequently to the lessening of the Revenue thereby, will cease. And then if any Man shall incline to Brew his own Drink, upon an Apprehension of the Excellency and Good<g ref="char:EOLhyphen"/>ness thereof, above the Com<g ref="char:EOLhyphen"/>mon Brewers Drink, yet then he will Brew and Drink, as now he buys Bread and Eats, upon the same equal Terms with all the rest of his fellow Subjects, which cannot be supposed to
+<pb n="15" facs="tcp:104682:8"/>be Resisted by any true lover of his Countrey.</p>
+            <p>
+               <hi>Seventhly,</hi> Can any thing be justly and reasonably Objected against every Man's bearing and paying his nearest proportions in all those Duties and Taxes, which are for the Support of the well constituted Govern<g ref="char:EOLhyphen"/>ment, under which he hath not only his Protection, but holds all his Enjoyments; especially in this Duty of Excise, that is, or may become the most consi<g ref="char:EOLhyphen"/>derable Branch of the whole Revenue of the Crown. But whilst the Duty is thus conti<g ref="char:EOLhyphen"/>nued upon Beer and Ale, made by the Common Brewer only, the Subjects of this Kingdom,
+<pb n="16" facs="tcp:104682:9"/>are so far from bearing and paying their nearest proporti<g ref="char:EOLhyphen"/>ons therein, that the Genera<g ref="char:EOLhyphen"/>lity of those who are most fit<g ref="char:EOLhyphen"/>ted and enabled thereunto, by reason of their plentiful Estates, are the only Persons that (ac<g ref="char:EOLhyphen"/>cording to the present Law) do wholly exempt and free them<g ref="char:EOLhyphen"/>selves from the same. But change the Duty from the Drink, to the Original Malt, and then every Man's Shoulders through<g ref="char:EOLhyphen"/>out the whole Kingdom, will bear his nearest proportion in the burden of this great Tax.</p>
+            <p>
+               <hi>Eighthly,</hi> When this Duty of Excise was first Setled on the Crown by Act of Parliament, in <hi>Duodecimo Caroli Secundi,</hi> it is
+<pb n="17" facs="tcp:104682:9"/>there expressed to be given to the Crown, in lieu and instead of the Court of Wards, <hi>&amp;c.</hi> which Courts are in the same Act exprest to have been very grievous and burdensom to the People; and consequently the Abolishing and taking them a<g ref="char:EOLhyphen"/>way, must be understood to be a great Relief and Ease unto the People. But pray now let us rightly consider, who they were that were principally grieved by those Courts, and conse<g ref="char:EOLhyphen"/>quently were Relieved by their Abolishment, and shall we not find them to be the Nobility and Gentry of this Kingdom? and what could have been more reasonable then at that time, that, that Act it self, should have
+<pb n="18" facs="tcp:104682:10"/>made such Provision, that they who shared deepest in the Be<g ref="char:EOLhyphen"/>nefits of it, should have been chiefly concerned in the Bur<g ref="char:EOLhyphen"/>dens of it, and not to have freed the Gentry of <hi>England</hi> from their Burden, by laying a fresh Burden upon the backs of the most Industrious part of the Common People; which Bur<g ref="char:EOLhyphen"/>den has been ever since increa<g ref="char:EOLhyphen"/>sing, and is now become a mighty one, not so much upon the account of the greatness of the Sum of Mony to which it amounts, but as it lies upon the weakest part of the People on<g ref="char:EOLhyphen"/>ly. But it may not be con<g ref="char:EOLhyphen"/>venient to inlarge any further on this Head.</p>
+            <pb n="19" facs="tcp:104682:10"/>
+            <p>
+               <hi>Ninthly,</hi> Were the Duty chan<g ref="char:EOLhyphen"/>ged from the Drink to the O<g ref="char:EOLhyphen"/>riginal Malt, it would not prove so heavy a burden to Gentlemen Brewing their own Drink, as possibly (for want of due Con<g ref="char:EOLhyphen"/>sideration) they now fear and imagine; for suppose we, that so much Duty were laid upon a quarter of Malt, as the Com<g ref="char:EOLhyphen"/>mon Brewer now pays for the Drink which he draws from a quarter of Malt, this would (in an equal and proportionable way) Raise so large a Supply to the Crown, (that then more unequal and unproportionable Taxes, (wherein all the People share) might be excused; and if this matter were duly weigh<g ref="char:EOLhyphen"/>ed
+<pb n="20" facs="tcp:104682:11"/>and considered, it may be pre<g ref="char:EOLhyphen"/>sumed, that the Generality of our Gentry, (especially those who for the Service of their Families, or otherwise, have brought considerable Obliga<g ref="char:EOLhyphen"/>tions upon their Estates) do find that the present Land-Tax of four Shillings in the pound, does rise so high, and sits so heavy upon their Estates; that the paying a duty for the Malt which they shall use in their own private Brewing, will bear but a very small proportion to it, and therefore if it be allow<g ref="char:EOLhyphen"/>ed me, as it must, that by lay<g ref="char:EOLhyphen"/>ing this Duty in this fair and equal manner, upon the Malt, the Crown will be so largely and securely supplied, that o<g ref="char:EOLhyphen"/>ther
+<pb n="21" facs="tcp:104682:11"/>Taxes will be greatly a<g ref="char:EOLhyphen"/>bated, why should the change of this Duty be so frightful in its appearance to our Gentry, as it has been? For most cer<g ref="char:EOLhyphen"/>tain it is, that the true Inte<g ref="char:EOLhyphen"/>rest of the Nation, lies in keeping our Trade and our Lands, as free as may be from Impositions and Burdens, and Raising the Necessary Supplies for the Government, upon the Peoples home Consumption. And what if a general Imposi<g ref="char:EOLhyphen"/>tion were laid upon all home Consumption, who could rea<g ref="char:EOLhyphen"/>sonably open his Mouth against it? it is not to be supposed, that any Man will quarrel with that Law which gives him the liberty and freedom of Rating
+<pb n="22" facs="tcp:104682:12"/>and Taxing himself: Now un<g ref="char:EOLhyphen"/>der an Universal Excise, this is the Case of every Subject, for then every Man will pay to<g ref="char:EOLhyphen"/>wards the Support of the Go<g ref="char:EOLhyphen"/>vrnment, exactly according to his Eating, Drinking, Wearing, and Living, all which are in his own Command, Pleasure, and Direction, which is the truest way to silence all Com<g ref="char:EOLhyphen"/>plaints under heavy Taxes and Impositions.</p>
+            <p>
+               <hi>Lastly,</hi> If the Duty were chan<g ref="char:EOLhyphen"/>ged from the Product of the Malt, to the Malt it self, it would be a great Service to the Crown up<g ref="char:EOLhyphen"/>on the account of its certainty; for as the Duty now lies upon the Drink, it is impossible to
+<pb n="23" facs="tcp:104682:12"/>make it a certainty to the Crown, which the Crown cannot but be very sensible of, because when ever the Wisdom of Par<g ref="char:EOLhyphen"/>liament has thought fit for a better Supply to the Crown, to increase this Duty, that increase of the Duty, has never been attended with a suitable and proportionable increase of the Revenue; but the quite contra<g ref="char:EOLhyphen"/>ry, as is too evident by the Books of Accompts at the Ex<g ref="char:EOLhyphen"/>cise-Office in <hi>Broadstreet.</hi> As for example; At <hi>Midsummer,</hi> 1689. the Duty upon Strong Beer and Ale, was three Shillings three Pence <hi>per</hi> Barrel, and at that time, that three Shillings &amp; three Pence <hi>per</hi> Barrel, brought in to the King above Eight Hundred and
+<pb n="24" facs="tcp:104682:13"/>thirty Thousand pound, over and above the Duty upon Small Drink; now this Duty in the year 1692. was dou<g ref="char:EOLhyphen"/>bl'd, and made six Shillings and six Pence <hi>per</hi> Barrel, and according to the Rule of pro<g ref="char:EOLhyphen"/>portion, the Income to the Crown ought then to have been dou<g ref="char:EOLhyphen"/>bled thereby, and made to a<g ref="char:EOLhyphen"/>mount to above one Million six Hundred and Sixty Thou<g ref="char:EOLhyphen"/>sand pound: But in stead thereof, at <hi>Midsummer,</hi> 1692. the whole six Shillings and six pence <hi>per</hi> Barrel, brought in to the King but little more than one Milli<g ref="char:EOLhyphen"/>on and two Hundred Thousand pounds, so that the King lost that year, at least four Hun<g ref="char:EOLhyphen"/>dred &amp; sixty Thousand pounds,
+<pb n="25" facs="tcp:104682:13"/>out of what the six Shillings and six pence <hi>per</hi> Barrel ought to have produced, in propor<g ref="char:EOLhyphen"/>tion to what the three Shillings and three pence <hi>per</hi> Barrel had before produced, which Disap<g ref="char:EOLhyphen"/>pointment could not but great<g ref="char:EOLhyphen"/>ly dis-serve the Crown; and this great Uncertainty and Incon<g ref="char:EOLhyphen"/>veniency, will alway unavoida<g ref="char:EOLhyphen"/>bly attend this so considerable a Branch of the Revenue, as long as the Duty lies upon the Product of the Malt. But un<g ref="char:EOLhyphen"/>der the change of the Duty to the Malt it self, the Revenue will then be rendered secure and certain, and then when ever the Wisdom of Parli<g ref="char:EOLhyphen"/>ament shall think fit to add to the Duty, if it be but one pen<g ref="char:EOLhyphen"/>ny
+<pb n="26" facs="tcp:104682:14"/>
+               <hi>per</hi> Bushel, that Additional Penny, shall at the years end, exactly and proportionably an<g ref="char:EOLhyphen"/>swer, as to the Income to the Crown, to each and every pen<g ref="char:EOLhyphen"/>ny <hi>per</hi> Bushel, which was im<g ref="char:EOLhyphen"/>posed and laid on before, which cannot but render the King's Affairs more easie and certain, than now they are; a thing ve<g ref="char:EOLhyphen"/>ry desirable to all truly Loy<g ref="char:EOLhyphen"/>al Subjects.</p>
+            <p>If Objections shall be raised, either as to the uncertainty of what may be the Income to the Crown by this change of the Duty, or as to the Difficulties that may attend the Execution thereof, the Proposer is ready to produce a Scheme of Practice,
+<pb n="27" facs="tcp:104682:14"/>and to attend what he has here Asserted, with the clearest De<g ref="char:EOLhyphen"/>monstration. And in the Inte<g ref="char:EOLhyphen"/>rim, a Serious Reflection upon the good Effects of taking off the Duty, which was laid upon the Liquor drawn from Coffee and Tea, and laying the Duty upon the Original Coffee and Tea it self, may be of some good Ser<g ref="char:EOLhyphen"/>vice, that change of that Duty being at first intended only as a Specimen, to what is herein most Humbly offered.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
